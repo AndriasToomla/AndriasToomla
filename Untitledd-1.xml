@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<name>Peeter</name>
+<account number>EE131313131313131311</account>
+<phone number>57593950</phone_number>
+<bank_balance>100000$</bank_balance>
+<home_address>Tiigi 9</home_address>
+<Swedbank>Liivalaia 8</Swedbank>
+<e-mail>Peeter114@gmail.com</email>
+<Savings_account>1000$</Savings_account>
+<pension_account>0$</pension_account>
+<date_of_birth>01.01.1990<date_of_birth>
+<securtiy_question>what was your first pets name</securtiy_question>
+</root>
